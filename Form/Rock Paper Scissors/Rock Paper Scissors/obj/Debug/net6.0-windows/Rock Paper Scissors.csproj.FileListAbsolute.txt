@@ -1,0 +1,34 @@
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.exe
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.deps.json
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.runtimeconfig.json
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.dll
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.pdb
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock_Paper_Scissors.Form1.resources
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock_Paper_Scissors.Properties.Resources.resources
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.AssemblyInfo.cs
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.dll
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\refint\Rock Paper Scissors.dll
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.pdb
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.genruntimeconfig.cache
+C:\Users\Mert\Desktop\deneme\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\ref\Rock Paper Scissors.dll
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.exe
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.deps.json
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.runtimeconfig.json
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.dll
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0-windows\Rock Paper Scissors.pdb
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock_Paper_Scissors.Form1.resources
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock_Paper_Scissors.Properties.Resources.resources
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.csproj.GenerateResource.cache
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.AssemblyInfo.cs
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.dll
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\refint\Rock Paper Scissors.dll
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.pdb
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\Rock Paper Scissors.genruntimeconfig.cache
+C:\Projeler\Visual Studio\C#\Form\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0-windows\ref\Rock Paper Scissors.dll
