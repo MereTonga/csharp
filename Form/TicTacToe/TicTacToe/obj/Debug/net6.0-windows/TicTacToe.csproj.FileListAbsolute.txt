@@ -1,0 +1,34 @@
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.exe
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.deps.json
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.runtimeconfig.json
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Form1.resources
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Properties.Resources.resources
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfo.cs
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\refint\TicTacToe.dll
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.genruntimeconfig.cache
+C:\Users\Mert\Desktop\deneme\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\ref\TicTacToe.dll
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.exe
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.deps.json
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.runtimeconfig.json
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.dll
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.pdb
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Form1.resources
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Properties.Resources.resources
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.GenerateResource.cache
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfoInputs.cache
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfo.cs
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.dll
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\refint\TicTacToe.dll
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.pdb
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.genruntimeconfig.cache
+C:\Projeler\Visual Studio\C#\Form\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\ref\TicTacToe.dll
