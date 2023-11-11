@@ -1,0 +1,16 @@
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\bin\Debug\net6.0-windows\FormDizi.exe
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\bin\Debug\net6.0-windows\FormDizi.deps.json
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\bin\Debug\net6.0-windows\FormDizi.runtimeconfig.json
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\bin\Debug\net6.0-windows\FormDizi.dll
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\bin\Debug\net6.0-windows\FormDizi.pdb
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\FormDizi.Form1.resources
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\FormDizi.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\FormDizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\FormDizi.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\FormDizi.AssemblyInfo.cs
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\FormDizi.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\FormDizi.dll
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\refint\FormDizi.dll
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\FormDizi.pdb
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\FormDizi.genruntimeconfig.cache
+C:\Users\Mert\Desktop\deneme\FormDizi\FormDizi\obj\Debug\net6.0-windows\ref\FormDizi.dll
