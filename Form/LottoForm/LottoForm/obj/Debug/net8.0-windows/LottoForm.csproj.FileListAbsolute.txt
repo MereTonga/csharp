@@ -1,0 +1,32 @@
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.exe
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.deps.json
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.runtimeconfig.json
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.dll
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.pdb
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.Form1.resources
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.csproj.GenerateResource.cache
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.AssemblyInfoInputs.cache
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.AssemblyInfo.cs
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.csproj.CoreCompileInputs.cache
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.dll
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\refint\LottoForm.dll
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.pdb
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.genruntimeconfig.cache
+C:\Projeler\Visual Studio\C#\Murat Yucedag Dersleri\Algoritma ve Programlama 201\LottoForm\LottoForm\obj\Debug\net8.0-windows\ref\LottoForm.dll
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.exe
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.deps.json
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.runtimeconfig.json
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.dll
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\bin\Debug\net8.0-windows\LottoForm.pdb
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.Form1.resources
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.AssemblyInfo.cs
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.dll
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\refint\LottoForm.dll
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.pdb
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\LottoForm.genruntimeconfig.cache
+C:\Users\Mert\Desktop\deneme\LottoForm\LottoForm\obj\Debug\net8.0-windows\ref\LottoForm.dll
