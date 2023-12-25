@@ -1,0 +1,34 @@
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.exe
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.deps.json
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.runtimeconfig.json
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.dll
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.pdb
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD_Ekran.Form1.resources
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD_Ekran.Properties.Resources.resources
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.AssemblyInfo.cs
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.dll
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\refint\LCD Ekran.dll
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.pdb
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.genruntimeconfig.cache
+C:\Users\Mert\Desktop\deneme\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\ref\LCD Ekran.dll
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.exe
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.deps.json
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.runtimeconfig.json
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.dll
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\bin\Debug\net8.0-windows\LCD Ekran.pdb
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD_Ekran.Form1.resources
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD_Ekran.Properties.Resources.resources
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.AssemblyInfo.cs
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.dll
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\refint\LCD Ekran.dll
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.pdb
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\LCD Ekran.genruntimeconfig.cache
+C:\Users\Mert\Desktop\denemeler\LCD Ekran\LCD Ekran\obj\Debug\net8.0-windows\ref\LCD Ekran.dll
