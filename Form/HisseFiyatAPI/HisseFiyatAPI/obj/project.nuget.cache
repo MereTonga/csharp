@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9riM0BqvBzQgmzxTtZOW7iYzUzR0WHAqZ9LKGzwneWm/i7dV3AWz0OC8NSgSbW3jAr70cQPmPXf0CA1eyjniA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mert\\Desktop\\denemeler\\HisseFiyatAPI\\HisseFiyatAPI\\HisseFiyatAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
